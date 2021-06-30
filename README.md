@@ -25,6 +25,8 @@ By analysing this dataset I found some comom knowledges and some interesting new
 
 This analysis can also be an indication of which players from less famous clubs should be bought by the so called big-six England clubs, as when a player from a small team performs really well, this can be an indication that the player in question should be playing for another most prestigious and ambitious club.
 
+You can also read s complete summary of the analysis here: https://guilhermemello1988.medium.com/a-data-driven-analysis-of-the-english-premier-league-438cb58b954b
+
 Acknowledgement:
 
-For Sergi Lehkyi, which uploaded the dataset in the Kaggle repository that I mentioned in the begining of this file.
+For Sergi Lehkyi, which uploaded the dataset in this Kaggle repository https://www.kaggle.com/rajatrc1705/english-premier-league202021
